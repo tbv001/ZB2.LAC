@@ -4,7 +4,7 @@
 
 ## Features
 
-- Plays a subtle and distict clicking sound when you're shooting your gun with the ammo in the mag is 30% or lower.
+- Plays a subtle and distinct clicking sound when you're shooting your gun with the ammo in the mag is 30% or lower.
 - Easily replace the click sound with your own .mp3 sound file in the mod's `Sounds` folder.
 
 ## Installation
